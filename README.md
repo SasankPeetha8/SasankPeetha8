@@ -19,7 +19,7 @@ Hello, I'm Sasank Peetha, an aspiring MSc Computer Science graduate from the Uni
 </div>
 
 <h2 align="center"> What Inspired Me 🔆</h2>
-<div align="center">
+<div>
 One of the electronic products that greatly attracted me was the Nokia N9, released during my high school years in 2011. Its cool and innovative design fascinated me. My interest continued to grow with the Nokia Lumia 520, a mobile phone with limited hardware capabilities that outperformed many other Android devices at the time. Later, the introduction of the Nokia Lumia 925 mesmerised me with its image quality and photography features 📸. It offered features such as Long Exposure Shots, Object Erasing, Manual Focus Adjustment, and Burst Shots. I found the features and it's performance to be highly innovative, and their software quality was excellent📱. The innovative features and excellent software quality of Nokia Lumia Mobiles fascinated me, sparking my curiosity about building similar devices and creating innovative operating systems.
 </div>
 
