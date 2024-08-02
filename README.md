@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h2 align="center"> About Me 🤵🏻 </h2>
 <div align="center">
-Hello, I'm Sasank Peetha, an aspiring MSc Computer Science graduate from the University of Nottingham 🎓. I am deeply passionate about programming, with a keen aspiration to become a Software Architect 👨🏻‍💻. Currently, I specialize in coding with C# and Python. Outside of my academic pursuits, I enjoy indulging in hobbies such as sketching ✏️, digital painting 🎨, animation 🎬, and photography 📷.
+Hello, I'm Sasank Peetha, an aspiring MSc Computer Science graduate from the University of Nottingham 🎓. I am deeply passionate about programming, with an  ambition to become a Software Architect 👨🏻‍💻. Currently, I specialise in coding with C# and Python. Outside my academic pursuits, I enjoy sketching ✏️, digital painting 🎨, animation 🎬, and photography 📷.
 </div>
 
 <h2 align="center"> What Inspired Me 🔆</h2>
